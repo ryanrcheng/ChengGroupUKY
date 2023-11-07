@@ -35,7 +35,7 @@ featured: true
 # links:
 # - name: ""
 #   url: ""
-url_pdf: "/workspaces/ChengGroupUKY/content/publication/journal-article/2022COSB.pdf"
+url_pdf: journal-article/2022COSB.pdf
 #url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
 #url_dataset: ''
 #url_poster: ''
@@ -47,7 +47,7 @@ url_pdf: "/workspaces/ChengGroupUKY/content/publication/journal-article/2022COSB
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [COSB](https://www.sciencedirect.com/science/article/pii/S0959440X22000975#:~:text=the%20parameter%20optimization.-,Download%20%3A%20Download%20high%2Dres%20image%20(1MB),-Download%20%3A%20Download)'
+  caption: 'Image credit: '
   focal_point: ""
   preview_only: false
 
