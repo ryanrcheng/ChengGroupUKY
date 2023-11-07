@@ -13,8 +13,9 @@ view: 2
 #  caption: ''
 #  image: ''
 
-
+####### modify this soon
 image: 
+  link: static/uploads/Devilal_photo.jpeg
   caption: Photo by Toa Heftiba on Unsplash
   focal_point: Smart
 
