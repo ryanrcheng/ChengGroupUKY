@@ -66,7 +66,7 @@ projects: []
 #slides: example
 
 
-title: "Uncovering the statistical physics of 3D chromosomal organization using data-driven modeling"
+title: "test"
 authors:
 - Vinicius G. Contessoto
 - admin
