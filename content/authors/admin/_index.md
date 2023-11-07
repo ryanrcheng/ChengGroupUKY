@@ -36,7 +36,7 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: Postdoc/Research Scientist I
+    - course: Postdoc/Research Scientist
       institution: Center for Theoretical Biological Physics, Rice University
       year: 2022
     - course: PhD in Theoretical Chemistry
