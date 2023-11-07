@@ -9,7 +9,16 @@ cms_exclude: true
 view: 2
 
 # Optional header image (relative to `static/media/` folder).
-header:
-  caption: ''
-  image: ''
+#header:
+#  caption: ''
+#  image: ''
+
+
+image: 
+  caption: Photo by Toa Heftiba on Unsplash
+  focal_point: Smart
+
+image: 
+  caption: Photo by Toa Heftiba on Unsplash
+  focal_point: Smart
 ---
