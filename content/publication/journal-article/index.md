@@ -35,7 +35,7 @@ featured: true
 # links:
 # - name: ""
 #   url: ""
-url_pdf: journal-article/2022COSB.pdf
+link: journal-article/2022COSB.pdf
 #url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
 #url_dataset: ''
 #url_poster: ''
