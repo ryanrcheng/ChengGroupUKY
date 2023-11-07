@@ -34,7 +34,7 @@ interests:
   
 
 # Education to show in About widget
-education & previous appointments:
+education:
   courses:
     - course: Postdoc/Research Scientist
       institution: Center for Theoretical Biological Physics, Rice University
