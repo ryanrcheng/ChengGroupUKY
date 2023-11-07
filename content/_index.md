@@ -118,7 +118,7 @@ sections:
   - block: collection
     id: team
     content:
-      title: Recent Posts
+      title: The Team
       subtitle: ''
       text: ''
       # Choose how many pages you would like to display (0 = all pages)
@@ -142,6 +142,7 @@ sections:
       # Choose a layout view
       view: compact
       columns: '2'
+
   - block: portfolio
     id: projects
     content:
@@ -177,17 +178,17 @@ sections:
         {{< gallery album="demo" >}}
     design:
       columns: '1'
-  - block: collection
-    id: featured
-    content:
-      title: Featured Publications
-      filters:
-        folders:
-          - publication
-        featured_only: true
-    design:
-      columns: '2'
-      view: card
+  #- block: collection
+  #  id: featured
+  #  content:
+  #    title: Featured Publications
+  #    filters:
+  #      folders:
+  #        - publication
+  #      featured_only: true
+  #  design:
+  #    columns: '2'
+  #    view: card
   - block: collection
     content:
       title: Recent Publications
@@ -212,11 +213,14 @@ sections:
     design:
       columns: '2'
       view: compact
-  - block: tag_cloud
-    content:
-      title: Popular Topics
-    design:
-      columns: '2'
+
+
+  #- block: tag_cloud
+  #  content:
+  #    title: Popular Topics
+  #  design:
+  #    columns: '2'
+
   - block: contact
     id: contact
     content:
