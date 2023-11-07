@@ -16,12 +16,12 @@ abstract: 'The recent emergence of both theoretical models of chromosome organiz
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2023-10-26'
-date_end: '2023-10-26'
+date: '2023-10-26T00:00:00Z'
+date_end: '2023-10-26T00:00:00Z'
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: '2017-01-01T00:00:00Z'
+publishDate: '2023-11-06T00:00:00Z'
 
 authors: []
 tags: []
