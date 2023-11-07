@@ -1,8 +1,7 @@
 ---
 title: Structural heterogeneity and compartmental polarization of human chromosomes
 event: Physics Colloquium
-#event_url: https://example.org
-
+event_url: https://example.org
 location: Northeastern University
 address:
   street: 114 Dana Research Center
