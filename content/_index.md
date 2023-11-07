@@ -160,11 +160,11 @@ sections:
       buttons:
         - name: All
           tag: '*'
-        - name: Genome Organization
-          tag: Genome Organization
-        - name: Genome Mechano-biology
-          tag: Genome Mechano-biology
-        - name: Amino Acid Co-evolution
+        - name: Genome organization
+          tag: Genome organization
+        - name: Genome mechano-biology
+          tag: Genome mechano-biology
+        - name: Amino acid co-evolution
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '1'
@@ -193,10 +193,10 @@ sections:
   - block: collection
     content:
       title: Recent Publications
-      text: |-
-        #{{% callout note %}}
-        #Quickly discover relevant content by [filtering publications](./publication/).
-        #{{% /callout %}}
+      #text: |-
+      #  {{% callout note %}}
+      #  Quickly discover relevant content by [filtering publications](./publication/).
+      #  {{% /callout %}}
       filters:
         folders:
           - publication
