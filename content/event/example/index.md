@@ -1,8 +1,8 @@
 ---
 title: Structural heterogeneity and compartmental polarization of human chromosomes
-event: Physics Colloquium
+event: Colloquium
 event_url: https://example.org
-location: Northeastern University
+location: Northeastern University, Dept. of Physics
 address:
   street: 114 Dana Research Center
   city: Boston
@@ -15,12 +15,12 @@ abstract: 'The recent emergence of both theoretical models of chromosome organiz
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2023-10-26T00:00:00Z'
-date_end: '2023-10-26T00:00:00Z'
+date: '2023-10-26'
+date_end: '2023-10-26'
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: '2023-11-06T00:00:00Z'
+#publishDate: '2023-11-06T00:00:00Z'
 
 authors: []
 tags: []

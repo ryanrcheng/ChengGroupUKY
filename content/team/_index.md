@@ -9,10 +9,7 @@ cms_exclude: true
 view: 2
 
 # Optional header image (relative to `static/media/` folder).
-header: Devilal Dahal, Ph.D.
-  caption: 'Postdoc, Research Project: Nuclear mechanics and viscoelasticity'
-  image: 'static/media/Devilal_photo.jpeg'
-
-
-
+header:
+  caption: ''
+  image: ''
 ---
