@@ -116,7 +116,7 @@ sections:
   #  design:
       columns: '2'
   - block: collection
-    id: posts
+    id: team
     content:
       title: Recent Posts
       subtitle: ''
@@ -223,13 +223,13 @@ sections:
       title: Contact
       subtitle:
       text: |-
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis ut magna et, vehicula efficitur enim.
+        Please feel free to email me!
       # Contact (add or remove contact options as necessary)
       email: ryan.r.cheng@uky.edu
       phone: (859)-257-3294 
-      appointment_url: 'https://calendly.com'
+      #appointment_url: 'https://calendly.com'
       address:
-        street: 125 Chemistry/Physics Building
+        street: 125 Chemistry/Physics Building, Office 351
         city: Lexington
         region: KY
         postcode: '40507'

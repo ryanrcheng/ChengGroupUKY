@@ -25,7 +25,7 @@ organizations:
     url: https://chem.as.uky.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research focuses on using computer simulations, biopolymer theory, statistical mechanics, and machine learning to address biophysical problems, particularly in the area of structural genomics.
+#bio: My research focuses on using computer simulations, biopolymer theory, statistical mechanics, and machine learning to address biophysical problems, particularly in the area of structural genomics.
 
 # Interests to show in About widget
 interests:
@@ -119,5 +119,5 @@ social:
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-Ryan R. Cheng is an assistant professor of chemistry at the University of Kentucky. His research interests are in the area of theoretical & computational biophysics. 
+Ryan R. Cheng is an assistant professor of chemistry at the University of Kentucky. His research focuses on using computer simulations, biopolymer theory, statistical mechanics, and machine learning to address biophysical problems, particularly in the area of structural genomics.
 {style="text-align: justify;"}
