@@ -39,7 +39,7 @@ education:
     - course: Postdoc/Research Scientist
       institution: Center for Theoretical Biological Physics, Rice University
       year: 2022
-    - course: PhD in Theoretical Chemistry
+    - course: Ph.D. in Theoretical Chemistry
       institution: University of Texas at Austin
       year: 2012
     - course: B.S. in Chemistry
