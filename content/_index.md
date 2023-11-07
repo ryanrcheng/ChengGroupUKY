@@ -160,10 +160,11 @@ sections:
       buttons:
         - name: All
           tag: '*'
-        - name: Deep Learning
-          tag: Deep Learning
-        - name: Other
-          tag: Demo
+        - name: Genome Organization
+          tag: Genome Organization
+        - name: Genome Mechano-biology
+          tag: Genome Mechano-biology
+        - name: Amino Acid Co-evolution
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '1'
@@ -193,9 +194,9 @@ sections:
     content:
       title: Recent Publications
       text: |-
-        {{% callout note %}}
-        Quickly discover relevant content by [filtering publications](./publication/).
-        {{% /callout %}}
+        #{{% callout note %}}
+        #Quickly discover relevant content by [filtering publications](./publication/).
+        #{{% /callout %}}
       filters:
         folders:
           - publication
