@@ -114,7 +114,7 @@ sections:
   #        title: 'Object-Oriented Programming in R'
   #        url: ''
   #  design:
-      columns: '2'
+  #   columns: '2'
   ###edits here####
   block: portfolio
     id: team
