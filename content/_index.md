@@ -122,7 +122,7 @@ sections:
       subtitle: 'testtest'
       text: ''
       ####edited here
-      image: static/uploads/Devilal_photo.jpeg
+      image: 'static/uploads/Devilal_photo.jpeg'
         #link: static/uploads/Devilal_photo.jpeg
         caption: testing
       #####
