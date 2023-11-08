@@ -119,7 +119,7 @@ sections:
     id: team
     content:
       title: The Team
-      subtitle: 'testtest2'
+      subtitle: 'testtest3'
       text: ''
       ####edited here
       image: 
