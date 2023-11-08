@@ -9,9 +9,9 @@ cms_exclude: true
 view: 2
 
 # Optional header image (relative to `static/media/` folder).
-header:
+header: Test
   caption: ''
-  image: Devilal_photo.jpeg'
+  image: static/media/Devilal_photo.jpeg
 
 ####### modify this soon
 #image: 
