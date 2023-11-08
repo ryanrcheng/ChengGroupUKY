@@ -9,9 +9,6 @@ cms_exclude: true
 view: 3
 
 
-image: 
-  caption: test
-  link: static/uploads/Devilal_photo.jpeg
 
 
 
