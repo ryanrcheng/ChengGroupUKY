@@ -6,12 +6,18 @@ cms_exclude: true
 #   1 = List
 #   2 = Compact
 #   3 = Card
-view: 2
+view: 3
+
+
+image: 
+  link: 'static/uploads/Devilal_photo.jpeg'
+
+
 
 # Optional header image (relative to `static/media/` folder).
-header: Test
-  caption: ''
-  image: static/media/Devilal_photo.jpeg
+#header:
+#  caption: ''
+#  image: ''
 
 ####### modify this soon
 #image: 
