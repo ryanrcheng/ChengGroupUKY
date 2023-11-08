@@ -119,12 +119,13 @@ sections:
     id: team
     content:
       title: The Team
-      subtitle: ''
+      subtitle: 'testtest'
       text: ''
       ####edited here
       image: 
         link: static/uploads/Devilal_photo.jpeg
         caption: testing
+      #####
       # Choose how many pages you would like to display (0 = all pages)
       count: 5
       # Filter on criteria
