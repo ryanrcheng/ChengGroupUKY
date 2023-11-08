@@ -1,6 +1,8 @@
 ---
 title: Devilal Dahal, Ph.D. in Computational Physics
+  font_size: l
 summary: Devilal is a postdoc 
+  font_size: m
 #tags:
 #  - Deep Learning
 #date: '2016-04-27T00:00:00Z'
@@ -10,7 +12,7 @@ external_link: ''
 
 image: 
   caption: Devilal Dahal, Ph.D.
-  size: fit
+  size: contain
   focal_point: Smart
 
 #links:
