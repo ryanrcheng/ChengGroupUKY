@@ -11,7 +11,8 @@ view: 3
 # Optional header image (relative to `static/media/` folder).
 header:
   caption: ''
-  image: 'static/uploads/Devilal_photo.jpeg'
+  image:
+    link: 'static/uploads/Devilal_photo.jpeg'
 
 ####### modify this soon
 #image: 
