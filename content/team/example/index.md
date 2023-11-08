@@ -10,6 +10,7 @@ external_link: ''
 
 image: 
   caption: Devilal Dahal, Ph.D.
+  size: fit
   focal_point: Smart
 
 #links:
