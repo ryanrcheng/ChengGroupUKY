@@ -10,7 +10,8 @@ view: 3
 
 
 image: 
-  link: 'static/uploads/Devilal_photo.jpeg'
+  caption: test
+  link: static/uploads/Devilal_photo.jpeg
 
 
 
