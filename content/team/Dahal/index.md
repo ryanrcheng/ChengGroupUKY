@@ -12,7 +12,7 @@ image:
   caption: Devilal Dahal, Ph.D.
   focal_point: Smart
   #size: actual
-  width: 10
+  size: small
 
 #links:
 #  - icon: twitter
