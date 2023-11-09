@@ -49,7 +49,7 @@ featured: false
 image:
   caption: ''
   focal_point: smart
-  preview_only: true
+  #preview_only: true
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.
