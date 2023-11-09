@@ -1,7 +1,6 @@
 ---
 title: Devilal Dahal, Postdoctoral Research Associate
 summary: Devilal received his Ph.D. in Computational Physics from the University of Southern Mississippi under the supervision of Professor Parthapratim Biswas. Devilal project currently focuses on the mechanics of the nucleus.
-size: actual
 #tags:
 #  - Deep Learning
 #date: '2016-04-27T00:00:00Z'
@@ -12,7 +11,8 @@ external_link: ''
 image: 
   caption: Devilal Dahal, Ph.D.
   focal_point: Smart
-  size: actual
+  #size: actual
+  width: 10
 
 #links:
 #  - icon: twitter
