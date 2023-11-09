@@ -30,7 +30,7 @@ abstract: In recent years, much effort has been devoted to understanding the thr
 
 tags:
 - Source Themes
-featured: true
+featured: false
 
 # links:
 # - name: ""
