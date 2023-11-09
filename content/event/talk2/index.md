@@ -15,8 +15,8 @@ abstract: 'The recent emergence of both theoretical models of chromosome organiz
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2023-10-26'
-date_end: '2023-10-26'
+date: '2023-10-26T16:00:00'
+date_end: '2023-10-26T17:00:00'
 all_day: false
 
 # Schedule page publish date (NOT talk date).
