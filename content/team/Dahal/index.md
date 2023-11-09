@@ -8,7 +8,7 @@ summary: Devilal received his Ph.D. in Computational Physics from the University
 # Optional external URL for project (replaces project detail page).
 external_link: ''
 
-< figure src="featured.jpg" caption="A caption" numbered="true" width="25" >
+< figure src="featured.jpg" caption="A caption" numbered="true" width="5" >
 
 
 #image: 
