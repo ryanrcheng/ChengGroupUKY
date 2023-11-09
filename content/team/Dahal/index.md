@@ -8,10 +8,13 @@ summary: Devilal received his Ph.D. in Computational Physics from the University
 # Optional external URL for project (replaces project detail page).
 external_link: ''
 
-image: 
-  caption: Devilal Dahal, Ph.D.
-  focal_point: Smart
-  resize_options="250x250"
+< figure src="featured.jpg" caption="A caption" numbered="true" width="25" >
+
+
+#image: 
+#  caption: Devilal Dahal, Ph.D.
+#  focal_point: Smart
+#  resize_options="250x250"
 
 #links:
 #  - icon: twitter
