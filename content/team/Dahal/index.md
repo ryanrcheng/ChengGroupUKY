@@ -11,7 +11,7 @@ external_link: ''
 image: 
   caption: Devilal Dahal, Ph.D.
   focal_point: Smart
-  size: contain
+  size: actual
 
 #links:
 #  - icon: twitter
