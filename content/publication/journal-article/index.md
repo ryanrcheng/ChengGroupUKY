@@ -35,7 +35,7 @@ featured: true
 # links:
 # - name: ""
 #   url: ""
-link: journal-article/2022COSB.pdf
+#link: journal-article/2022COSB.pdf
 #url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
 #url_dataset: ''
 #url_poster: ''
@@ -47,9 +47,9 @@ link: journal-article/2022COSB.pdf
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: '
-  focal_point: ""
-  preview_only: false
+  caption: ''
+  focal_point: smart
+  preview_only: true
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.
