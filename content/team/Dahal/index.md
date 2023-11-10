@@ -11,7 +11,7 @@ summary: Devilal received his Ph.D. in Computational Physics from the University
 #external_link: ''
 
 text: |-
-    {{< figure src="static/uploads/featured.jpg" caption="A caption" width="5" >}}
+    {{< img src="static/uploads/featured.jpg" caption="A caption" width="200" >}}
 #{{< img src="team/Dahal/featured.jpg" caption="A caption" width="5" >}}
 #<img src="team/Dahal/featured.jpg" width="200"/>
 
