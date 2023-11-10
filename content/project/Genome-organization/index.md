@@ -9,7 +9,7 @@ tags:
 external_link: ''
 
 image:
-  caption: 
+  caption: Genome organization
   focal_point: Smart
 
 #links:
@@ -29,4 +29,4 @@ image:
 #   Otherwise, set `slides = ""`.
 #slides: example
 ---
-
+Stuff
