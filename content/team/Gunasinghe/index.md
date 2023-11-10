@@ -9,7 +9,8 @@ external_link: ''
 
 image: 
   caption: Sasindu Gunasinghe
-  focal_point: Smart
+  focal_point: Left
+  #focal_point: Smart
 
 #links:
 #  - icon: twitter
