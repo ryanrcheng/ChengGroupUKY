@@ -5,11 +5,13 @@ summary: Devilal received his Ph.D. in Computational Physics from the University
 #  - Deep Learning
 #date: '2016-04-27T00:00:00Z'
 
+
+
 # Optional external URL for project (replaces project detail page).
 #external_link: ''
 
-#text: |-
-#    {{< img src="featured.jpg" caption="A caption" width="5" >}}
+text: |-
+    {{< figure src="static/uploads/featured.jpg" caption="A caption" width="5" >}}
 #{{< img src="team/Dahal/featured.jpg" caption="A caption" width="5" >}}
 #<img src="team/Dahal/featured.jpg" width="200"/>
 
