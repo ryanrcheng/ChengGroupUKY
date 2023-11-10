@@ -10,7 +10,9 @@ summary: Devilal received his Ph.D. in Computational Physics from the University
 # Optional external URL for project (replaces project detail page).
 #external_link: ''
 
-
+image:
+    text: |-
+        {{< img src="team/Dahal/featured.jpg" caption="A caption" width="5" >}}
     
 
 #{{< img src="team/Dahal/featured.jpg" caption="A caption" width="5" >}}
@@ -39,5 +41,5 @@ summary: Devilal received his Ph.D. in Computational Physics from the University
 #   Otherwise, set `slides = ""`.
 #slides: example
 ---
-{{< figure src="dahal.jpg" caption="A caption" width="200" >}}
+
 
