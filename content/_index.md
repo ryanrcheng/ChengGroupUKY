@@ -186,6 +186,7 @@ sections:
   #    view: card
   - block: collection
     content:
+    id: publications
       title: Publications
       #text: |-
       #  {{% callout note %}}
