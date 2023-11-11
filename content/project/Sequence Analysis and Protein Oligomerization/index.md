@@ -2,7 +2,7 @@
 title: Protein sequence analysis
 summary: Amino acid coevolution is used to predict spatial contacts between proteins that have been maintained over natural selection.
 tags:
-  - Sequence analysis
+  - Amino acid co-evolution
 #date: "2016-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
