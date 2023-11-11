@@ -1,6 +1,6 @@
 ---
 title: Genome organization
-summary: We explore the 3D structures of genomic material and the relationship of those structures to biological functions, such as transcriptional regulation.
+summary: We explore the 3D structures of chromatin and the relationship of those structures to biological functions, such as transcriptional regulation.
 tags:
   - Genome organization
 #date: '2023-04-27T00:00:00Z'
@@ -29,4 +29,4 @@ image:
 #   Otherwise, set `slides = ""`.
 #slides: example
 ---
-We previously used a combination of machine learning and physical modeling to show that epigenetic information (i.e., chemical modifications of the histones) was sufficient to predict the structural ensembles of human interphase chromosomes (Di Pierro & Cheng et al, PNAS 2018). Our current work continues to explore the relationship between epigenetics and structure using computer simulations, particularly for cell differentiation and the disease states. The emergence of these new theoretical models of genome organization have mirrored the developments of advanced experimental methods, such as genome-wide imaging. Our group also focuses on the analysis of the statistical ensembles revealed by imaging data and other large data sets.
+We previously used a combination of machine learning and physical modeling to show that epigenetic information (i.e., chemical modifications of the histones) was sufficient to predict the structural ensembles of human interphase chromosomes (Di Pierro & Cheng et al, PNAS 2018). Our current work building upon our existing theoretical framework to explore the relationship between epigenetics and structure using computer simulations, particularly for cell differentiation and the disease states. The emergence of our models of genome organization have mirrored the developments of advanced experimental methods, such as genome-wide imaging. Our group also focuses on the analysis of the statistical ensembles revealed by imaging data and other large data sets.
