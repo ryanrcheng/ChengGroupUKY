@@ -1,14 +1,14 @@
 ---
-title: Sasindu Gunasinghe, Graduate Student
-summary: Sasindu received his bachelors degree in Chemistry from the Institute of Chemistry Ceylon in Sri Lanka. His research will focus on the role of epigenetics across cell differentiation and disease states.
-#  - Deep Learning
+title: Genome mechanics
+summary: We are currently exploring how mechanical stress modulate the structural ensembles and dynamics of the genome.
+  - Genome-mechanics
 #date: '2016-04-27T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''
 
-image: 
-  caption: Sasindu Gunasinghe
+image:
+  caption: 
   focal_point: Smart
 
 #links:
@@ -28,4 +28,4 @@ image:
 #   Otherwise, set `slides = ""`.
 #slides: example
 ---
-
+Our group is exploring how mechanical stress modulates the structural ensembles and dynamics of the genome.  We previously simulated the stretching of individual chromosomes (Ruben et al BPJ 2023) showing that the Minimal Chromatin Model (MiChroM) captures the viscoelastic behavior of genomic material.  More on this soon!
