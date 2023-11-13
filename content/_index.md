@@ -159,6 +159,7 @@ sections:
         - name: Genome mechano-biology
           tag: Genome mechano-biology
         - name: Amino acid co-evolution
+          tag: Amino acid co-evolution
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '1'
