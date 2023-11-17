@@ -3,6 +3,7 @@ title: Matheus Mello, Graduate Student
 summary: Matheus is currently a Ph.D. student at Rice University under the supervision of Professor Jose Onuchic. We are currently collaborating on the analysis of imaging data!
 tags:
   - phdstudent
+  - external
 #date: '2016-04-27T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).

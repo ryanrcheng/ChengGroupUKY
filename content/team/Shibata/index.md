@@ -3,6 +3,7 @@ title: Mayu Shibata, Graduate Student
 summary: Mayu is currently a Ph.D. student at Ochanomizu University under the supervision of Professor Kei Yura. We are collaborating on a project focusing on amino acid co-evolution!
 tags:
   - phdstudent
+  - external
 #date: '2016-04-27T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
