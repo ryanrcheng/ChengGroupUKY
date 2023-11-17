@@ -133,11 +133,11 @@ sections:
       buttons:
         - name: All
           tag: '*'
-        - name: Postdoc
+        - name: Postdocs
           tag: postdoc
-        - name: Ph.D. student
+        - name: Ph.D. students
           tag: phdstudent
-        - name: Undergrad
+        - name: Undergrads
           tag: undergrad
         - name: External collaborators
           tag: external
