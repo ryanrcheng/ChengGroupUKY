@@ -1,7 +1,8 @@
 ---
 title: Sasindu Gunasinghe, Graduate Student
 summary: Sasindu received his bachelors degree in Chemistry from the Institute of Chemistry Ceylon in Sri Lanka. His research will focus on the role of epigenetics in cell differentiation and disease states.
-#  - Deep Learning
+tags:
+  - phdstudent
 #date: '2016-04-27T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).

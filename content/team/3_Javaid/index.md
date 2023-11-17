@@ -1,7 +1,8 @@
 ---
 title: Aleena Javaid, Undergraduate Researcher
 summary: Aleena is currently a 3rd year chemistry student at UKY.
-#  - Deep Learning
+tags:
+  - undergrad
 #date: '2016-04-27T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
