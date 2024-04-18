@@ -10,5 +10,5 @@ date: '2024-03-19'
 publishDate: '2024-03-19T17:20:18.916056Z'
 publication_types:
 - article-journal
-publication: 'Biophysical Journal'
+publication: '*Biophysical Journal*'
 ---
