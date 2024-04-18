@@ -1,0 +1,45 @@
+---
+title: Residue coevolution and mutational landscape for OmpR and NarL response regulator
+  subfamilies
+authors:
+- Mayu Shibata
+- Xingcheng Lin
+- José N. Onuchic
+- Kei Yura
+- Ryan R. Cheng
+date: '2024-01-01'
+publishDate: '2024-04-18T01:50:47.319934Z'
+publication_types:
+- article-journal
+publication: '*Biophysical Journal*'
+doi: https://doi.org/10.1016/j.bpj.2024.01.028
+abstract: DNA-binding response regulators (DBRRs) are a broad class of proteins that
+  operate in tandem with their partner kinase proteins to form two-component signal
+  transduction systems in bacteria. Typical DBRRs are composed of two domains where
+  the conserved N-terminal domain accepts transduced signals and the evolutionarily
+  diverse C-terminal domain binds to DNA. These domains are assumed to be functionally
+  independent, and hence recombination of the two domains should yield novel DBRRs
+  of arbitrary input/output response, which can be used as biosensors. This idea has
+  been proved to be successful in some cases; yet, the error rate is not trivial.
+  Improvement of the success rate of this technique requires a deeper understanding
+  of the linker-domain and inter-domain residue interactions, which have not yet been
+  thoroughly examined. Here, we studied residue coevolution of DBRRs of the two main
+  subfamilies (OmpR and NarL) using large collections of bacterial amino acid sequences
+  to extensively investigate the evolutionary signatures of linker-domain and inter-domain
+  residue interactions. Coevolutionary analysis uncovered evolutionarily selected
+  linker-domain and inter-domain residue interactions of known experimental structures,
+  as well as previously unknown inter-domain residue interactions. We examined the
+  possibility of these inter-domain residue interactions as contacts that stabilize
+  an inactive conformation of the DBRR where DNA binding is inhibited for both subfamilies.
+  The newly gained insights on linker-domain/inter-domain residue interactions and
+  shared inactivation mechanisms improve the understanding of the functional mechanism
+  of DBRRs, providing clues to efficiently create functional DBRR-based biosensors.
+  Additionally, we show the feasibility of applying coevolutionary landscape models
+  to predict the functionality of domain-swapped DBRR proteins. The presented result
+  demonstrates that sequence information can be used to filter out bioengineered DBRR
+  proteins that are predicted to be nonfunctional due to a high negative predictive
+  value.
+links:
+- name: URL
+  url: https://www.sciencedirect.com/science/article/pii/S0006349524000699
+---
