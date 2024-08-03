@@ -29,4 +29,4 @@ image:
 #   Otherwise, set `slides = ""`.
 #slides: example
 ---
-Our group is exploring how mechanical stress modulates the structural ensembles and dynamics of the genome.  We previously simulated the stretching of individual chromosomes (Ruben et al BPJ 2023) showing that the Minimal Chromatin Model (MiChroM) captures the viscoelastic behavior of genomic material.  More soon!
+Our group is developing a viscoelastic model of the nuclear envelope and combining it with a model of individual chromosomes.More soon!
