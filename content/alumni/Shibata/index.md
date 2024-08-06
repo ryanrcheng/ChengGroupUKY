@@ -1,6 +1,6 @@
 ---
 title: Mayu Shibata, Graduate Student
-summary: Mayu received her Ph.D. from Ochanomizu University in March 2024 under the supervision of Professor Kei Yura.  Her paper on amino acid co-evolution of bacterial response regulator proteins was published in Biophysical Journal in 2024.
+summary: Mayu received her Ph.D. from Ochanomizu University in March 2024 under the supervision of Professor Kei Yura.  Her paper on amino acid co-evolution of bacterial response regulator proteins was published in Biophysical Journal in 2024.  She is currently a researcher at the Center for Regenerative Medicine, National Research Institute for Child Health and Development (Japan).
 tags:
   - phdstudent
   - external
